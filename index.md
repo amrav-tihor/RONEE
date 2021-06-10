@@ -6,6 +6,7 @@ RONEE comes with 11 themes and 2 listboxes to keep track of your files and reduc
 You can browse and open any file from our built-in file
 explorer and encrypt/decrypt there itself
 
+RONEE displays quotes, which are changed everyday and are fetched from the internet, once RONEE fetches the quote via a HTTP request, it automatically disconnects from internet making your computer more safe from internet hacks or backdoors, RONEE is a promise made by Rohit Varma to guarantee safe encryption of your important files
 
 ### Downloads
 
@@ -30,10 +31,20 @@ _Encrypting a txt file_
 
 _Decrypting the txt file_
 
+### Testimonials
+
+_"Helped me to protect my important text files, and I use RONEE for daily quotes too, loved it!!"_
+                                                                                               - A Chakrinee
+                                                      
+_"RONEE is amazing and fast, I use it to encrypt pictures too"_
+                                                             - Y Chetan
+                                  
+_"RONEE is colourful and very easy to use"_
+                                         - S Divya
+
 ### Support or Contact
 
 Loved my Software?? Want to support me?? Donations are accepted via crypto only, my bitcoin address is,
 ```bc1q3dj3qt8t52nphz5caweyszts7qza299p4ucaxy```
 
 **Having issues?? contact me @ _circuitjet.yt@gmail.com_**
-
