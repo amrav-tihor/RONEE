@@ -38,10 +38,10 @@ loved it!!"_
 - Chakrinee
                                                       
 _"RONEE is amazing and fast, I use it to encrypt pictures too"_
-                                                             - Y Chetan
+- Y Chetan
                                   
 _"RONEE is colourful and very easy to use"_
-                                         - S Divya
+- S Divya
 
 ### Support or Contact
 
