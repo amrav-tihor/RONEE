@@ -19,6 +19,14 @@ Download the latest version by clicking [here](https://github.com/amrav-tihor/RO
 
 _Home page of RONEE_
 
+![image](https://user-images.githubusercontent.com/70877091/121512204-1ae92180-ca07-11eb-8cb3-f90eb5eee6e1.png)
+
+_Encrypting a txt file_
+
+![image](https://user-images.githubusercontent.com/70877091/121512478-613e8080-ca07-11eb-8a40-b52f96a0d024.png)
+
+_Decrypting the txt file_
+
 
 
 
