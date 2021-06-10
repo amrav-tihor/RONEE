@@ -11,7 +11,10 @@ explorer and encrypt/decrypt there itself
 
 You can Download the latest version of RONEE from my github repository, it's free and always will be
 
-Download the latest version by clicking [here](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v1.2/RONEE-v1.2.exe)
+Download the latest version by clicking [Download now](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v1.2/RONEE-v1.2.exe) button.
+
+space required: 11.9 Mb
+Recommended OS: Windows 10
 
 
 ### Gallery
@@ -27,10 +30,10 @@ _Encrypting a txt file_
 
 _Decrypting the txt file_
 
-
-
-
 ### Support or Contact
 
-contact me @ circuitjet.yt@gmail.com
+Loved my Software?? Want to support me?? Donations are accepted via crypto only, my bitcoin address is,
+```bc1q3dj3qt8t52nphz5caweyszts7qza299p4ucaxy```
+
+**Having issues?? contact me @ _circuitjet.yt@gmail.com_**
 
