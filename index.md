@@ -33,8 +33,9 @@ _Decrypting the txt file_
 
 ### Testimonials
 
-_"Helped me to protect my important text files, and I use RONEE for daily quotes too, loved it!!"_
-                                                                                               - Chakrinee
+_"Helped me to protect my important text files, and I use RONEE for daily quotes too,
+loved it!!"_
+          - Chakrinee
                                                       
 _"RONEE is amazing and fast, I use it to encrypt pictures too"_
                                                              - Y Chetan
