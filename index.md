@@ -10,6 +10,8 @@ RONEE displays quotes, which are changed everyday and are fetched from the inter
 
 ### Downloads
 
+Watch this video guide on how to install RONEE by clicking [here](https://youtu.be/se4xuoH39iM)
+
 You can Download the latest version of RONEE from my github repository, it's free and always will be
 
 Download the latest version by clicking [Download now](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v1.2/RONEE-v1.2.exe) button.
