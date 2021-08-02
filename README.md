@@ -1,5 +1,5 @@
 # RONEE
-## File encryption system (please install the latest version ie V1.2)
+## File encryption system (please install the latest version ie v2.0)
 
 ### Just download the .exe file and run it, an installer opens up
 ### follow the installer's instructions
