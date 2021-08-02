@@ -14,7 +14,7 @@ Watch this video guide on how to install RONEE by clicking [here](https://youtu.
 
 You can Download the latest version of RONEE from my github repository, it's free and always will be
 
-Download the latest version by clicking [Download now](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v1.2/RONEE-v1.2.exe) button.
+Download the latest version by clicking [Download now](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v2.0/RONEE-v2.0(setup).exe) button.
 
 space required: 11.9 Mb
 Recommended OS: Windows 10
