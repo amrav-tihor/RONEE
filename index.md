@@ -16,7 +16,7 @@ You can Download the latest version of RONEE from my github repository, it's fre
 
 Download the latest version by clicking [Download now](https://github.com/amrav-tihor/RONEE/raw/main/RONEE%20v2.0/RONEE-v2.0(setup).exe) button.
 
-space required: 11.9 Mb
+space required: 12.2 Mb (for v2.0)
 Recommended OS: Windows 10
 
 
