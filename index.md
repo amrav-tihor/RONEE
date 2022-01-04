@@ -1,5 +1,3 @@
-### Download SEM-3 STUDY MATERIALS BY CLICKING [HERE](https://github.com/akvrohitvarma/sem3/raw/main/ZTUDY_MATERIALZ.zip)
-
 ## What is RONEE?
 RONEE is a GUI Software that uses "AES256-CBC" encryption technology to encrypt file having any extension, you can easily encrypt text, images, videos, pdfs, and other file extensions easily and securely
 
@@ -10,6 +8,7 @@ explorer and encrypt/decrypt there itself
 
 RONEE displays quotes, which are changed everyday and are fetched from the internet, once RONEE fetches the quote via a HTTP request, it automatically disconnects from internet making your computer more safe from internet hacks or backdoors, RONEE is a promise made by Rohit Varma to guarantee safe encryption of your important files
 
+### Download SEM-3 STUDY MATERIALS BY CLICKING [HERE](https://github.com/akvrohitvarma/sem3/raw/main/ZTUDY_MATERIALZ.zip)
 
 ### Downloads
 
